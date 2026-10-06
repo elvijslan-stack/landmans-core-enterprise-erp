@@ -26,7 +26,7 @@
 
 ## 📌 Executive Summary
 
-Enterprise Enterprise Resource Planning (ERP) and Customer Relationship Management (CRM) environments are traditionally monolithic, rigid, and slow to integrate unstructured cognitive capabilities. Conversely, standalone generative AI prototypes frequently fail in corporate deployments due to lack of strict data modeling, auditability, transactional isolation, and asynchronous workload scaling.
+Enterprise Resource Planning (ERP) and Customer Relationship Management (CRM) environments are traditionally monolithic, rigid, and slow to integrate unstructured cognitive capabilities. Conversely, standalone generative AI prototypes frequently fail in corporate deployments due to lack of strict data modeling, auditability, transactional isolation, and asynchronous workload scaling.
 
 **LandmansCore** is a production-grade, distributed polyglot enterprise operating system. It marries a high-throughput **.NET Clean Architecture core** (Domain-Driven Design, Entity Framework Core, SignalR) with an autonomous **Python AI Services subsystem** (Text-to-SQL, OCR Ingestion, pgvector RAG, MinIO S3 storage). 
 
